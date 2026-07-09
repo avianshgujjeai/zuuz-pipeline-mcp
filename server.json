@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "ai.zuuz/pipeline-mcp",
+  "name": "io.github.avianshgujjeai/zuuz-pipeline-mcp",
   "description": "ZUUZ's inbox-to-pipeline CRM tools: verified proof points, case study, pricing, and a brand-voice checker — for IT services, MSPs, VARs, distribution, and InsureTech teams whose deal context lives in email, not the CRM.",
   "repository": {
     "url": "https://github.com/avianshgujjeai/zuuz-pipeline-mcp",
