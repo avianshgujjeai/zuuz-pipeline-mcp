@@ -4,7 +4,7 @@
   "description": "ZUUZ's inbox-to-pipeline CRM tools for MCP: verified proof points, case study, pricing, and a brand-voice checker. Built for IT services, MSPs, VARs, distribution, and InsureTech teams whose deal context lives in email, not the CRM.",
   "type": "module",
   "main": "index.js",
-  "mcpName": "ai.zuuz/pipeline-mcp",
+  "mcpName": "io.github.avianshgujjeai/zuuz-pipeline-mcp",
   "repository": {
     "type": "git",
     "url": "https://github.com/avianshgujjeai/zuuz-pipeline-mcp.git"
